@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jademoreta.github.io/web.github.io/index.html</loc>
-    <lastmod>2024-11-21T16:48:32.352Z</lastmod>
+    <lastmod>2024-11-24T15:21:11.824Z</lastmod>
   </url>
   <url>
-    <loc>https://jademoreta.github.io/web.github.io/about.html</loc>
-    <lastmod>2024-11-21T16:48:32.352Z</lastmod>
+    <loc>https://jademoreta.github.io/web.github.io/blog/blog.html</loc>
+    <lastmod>2024-11-24T15:21:11.764Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jademoreta.github.io/web.github.io/CV.html</loc>
+    <lastmod>2024-11-24T15:21:11.724Z</lastmod>
   </url>
 </urlset>

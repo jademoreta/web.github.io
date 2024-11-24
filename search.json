@@ -1,16 +1,100 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "web.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#gestión-de-riesgos-hipotecarios",
+    "href": "index.html#gestión-de-riesgos-hipotecarios",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Gestión de Riesgos Hipotecarios",
+    "text": "Gestión de Riesgos Hipotecarios\n\nCrisis financieras (incluida la crisis Subprime).\nAnálisis global del mercado de hipotecas (EE. UU., Latinoamérica, España).\nErrores comunes en la gestión del riesgo hipotecario.\nRiesgos asociados (operacional, estratégico, reputacional, etc.).\nCultura de riesgo y apetito de riesgo."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#risk-governance",
+    "href": "index.html#risk-governance",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Risk Governance",
+    "text": "Risk Governance\n\nDefinición y estructura de gobernanza.\nPrincipios clave (segregación, incentivos, independencia).\nModelos de líneas de defensa (1ª, 2ª, y 3ª línea).\nComunicación efectiva y fortalecimiento del rol del CRO."
+  },
+  {
+    "objectID": "index.html#proceso-de-originación-y-evaluación",
+    "href": "index.html#proceso-de-originación-y-evaluación",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Proceso de Originación y Evaluación",
+    "text": "Proceso de Originación y Evaluación\n\nCanales de distribución y tecnologías aplicadas.\nEvaluación de cultura de riesgo en originación.\nGestión de brokers y valuadores.\nRevisión de procesos y aseguramiento de documentación."
+  },
+  {
+    "objectID": "index.html#recobro-y-recuperación",
+    "href": "index.html#recobro-y-recuperación",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Recobro y Recuperación",
+    "text": "Recobro y Recuperación\n\nEstrategias de recobro (uso de scores, árboles de decisión).\nTratamiento de impagos y esquemas de reestructuración.\nProceso de ejecución hipotecaria.\nExternalización y herramientas tecnológicas."
+  },
+  {
+    "objectID": "index.html#stress-testing-aspectos-cualitativos",
+    "href": "index.html#stress-testing-aspectos-cualitativos",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Stress Testing (Aspectos Cualitativos)",
+    "text": "Stress Testing (Aspectos Cualitativos)\n\nGobernanza y roles en el stress testing.\nDiseño de escenarios adversos (macro y microeconómicos).\nValidación y revisión independiente de los modelos."
+  },
+  {
+    "objectID": "index.html#modelización-y-métricas",
+    "href": "index.html#modelización-y-métricas",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Modelización y Métricas",
+    "text": "Modelización y Métricas\n\nVariables y métodos del credit scoring (regresión logística, WOE, árboles de decisión).\nMétodos avanzados de segmentación, detección de outliers y muestreo.\nScorecards (discretos y continuos).\nTécnicas de inferencia (Reject Inference)."
+  },
+  {
+    "objectID": "index.html#securitización",
+    "href": "index.html#securitización",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Securitización",
+    "text": "Securitización\n\nModelización de flujos de caja, prepagos, y tipos de interés.\nAnálisis de curvas de maduración y enfoques IRB.\nTitulizaciones según Basilea (II y III)."
+  },
+  {
+    "objectID": "index.html#portfolio-management",
+    "href": "index.html#portfolio-management",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Portfolio Management",
+    "text": "Portfolio Management\n\nMonitorización de KRIs.\nAnálisis de concentraciones y vintage analysis.\nStress testing en carteras."
+  },
+  {
+    "objectID": "index.html#regresión-y-modelos-econométricos",
+    "href": "index.html#regresión-y-modelos-econométricos",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Regresión y Modelos Econométricos",
+    "text": "Regresión y Modelos Econométricos\n\nRegresión logística, Cox, y modelos ARIMA.\nTécnicas de calibración avanzada (PD y LGD).\nValidación de modelos: heterocedasticidad, multicolinealidad, etc."
+  },
+  {
+    "objectID": "index.html#stress-testing-aspectos-cuantitativos",
+    "href": "index.html#stress-testing-aspectos-cuantitativos",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Stress Testing (Aspectos Cuantitativos)",
+    "text": "Stress Testing (Aspectos Cuantitativos)\n\nEstimación de variables clave (PD, LGD, EAD).\nMatrices de transición y tasas de cure.\nModelos de supervivencia y ARIMA para forecasting."
+  },
+  {
+    "objectID": "index.html#capital-y-raroc",
+    "href": "index.html#capital-y-raroc",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Capital y RAROC",
+    "text": "Capital y RAROC\n\nCálculo de capital regulatorio y económico.\nAnálisis de correlaciones y modelos multifactoriales.\nGestión de pricing y RAROC en carteras hipotecarias."
+  },
+  {
+    "objectID": "index.html#recobro-y-recuperación-scores",
+    "href": "index.html#recobro-y-recuperación-scores",
+    "title": "Gestión Integral del Riesgo de Crédito",
+    "section": "Recobro y Recuperación (Scores)",
+    "text": "Recobro y Recuperación (Scores)\n\nDesarrollo de collection y recovery scores.\nMétricas de roll rates, flow rates, y ratios de desempeño."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Series",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Series\n\nggplot2-series\nThis series contains a great deal of tips, tricks and packages that you can use to level up your ggplot game.\n\n\n\n\nSubscribe\n\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "2006 | Termino mis estudios en la Universidad Técnica de Ambato.\n\n\n\n\n2006 | Empiezo como analista de riesgo de crédito agrícola en el Banco Procredit -Ecuador.\n\n\n\n\n2008 | Continúo como analista de risgo de crédito en el Banco solidario.\n\n\n\n\n2009 |Responsable de la Agencia Cevallos en la Cooperativa de Ahorro y Crédito San Franciso.\n\n\n\n\n2018 | Culmino mis estudios como Máster en Administración de empresas (MBA) en la Universidad Católica del Ecuador.\n\n\n\n\n2021 | Culmino mis estudios de Máster en Análisis de Datos en la Universidad Politécnica de Valencia - España.\n\n\n\n\n2022 | Me desempeño como Analista de riesgo de crédito en Aliseda Inmobiliaria.\n\n\n\n\n2023 | Paso a formar parte de RTG finance como analista de riesgo de crédito hipotecario.\n\n\n\n\n2024 | Obtengo la autorización del Banco de España para ejercer como intermediario de crédito inmobiliario.\n\n\n\n\nActualmente ayudo a mis clientes en la compra de vivienda. Brindo asesoramiento y negocio con entidades bancarias para obtener financiamiento a medida."
   }
 ]
