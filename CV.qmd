@@ -1,0 +1,99 @@
+---
+title: "CV"
+subtitle: 'Angel Moreta'
+format:
+  closeread-html:
+    cr-style:
+      section-background-color: white
+      narrative-background-color-sidebar: "#000000"
+      narrative-text-color-sidebar: white
+      narrative-font-family: 'Lato, "Lato", Times, serif'
+      narrative-font-size: 1.9rem
+      narrative-sidebar-width: minmax(900px, 1fr)
+embed-resources: true
+---
+
+:::{.cr-section}
+
+@cr-phd1
+| 2006
+| Termino mis estudios en la Universidad Técnica de Ambato.
+ 
+
+@cr-phd2
+| 2006
+| Empiezo como analista de riesgo de crédito agrícola en el Banco Procredit -Ecuador.
+
+@cr-phd3
+| 2008
+| Continúo como analista de risgo de crédito en el Banco solidario.
+
+@cr-phd4
+| 2009
+|Responsable de la Agencia Cevallos en la Cooperativa de Ahorro y Crédito San Franciso.
+
+@cr-phd5
+| 2018
+| Culmino mis estudios como Máster en Administración de empresas (MBA) en la Universidad Católica del Ecuador.
+
+@cr-phd6
+| 2021
+| Culmino mis estudios de Máster en Análisis de Datos en la Universidad Politécnica de Valencia - España.
+
+@cr-phd7
+| 2022
+| Me desempeño como Analista de riesgo de crédito en Aliseda Inmobiliaria.
+
+[@cr-phd8]{scale-by="1.5"}
+| 2023
+| Paso a formar parte de RTG finance como analista de riesgo de crédito hipotecario.
+
+[@cr-phd9]{scale-by="1.5"}
+| 2024 
+| Obtengo la autorización del Banco de España para ejercer como intermediario de crédito inmobiliario.
+
+[@cr-phd10]{scale-by="1.5"}
+| Actualmente ayudo a mis clientes en la compra de vivienda. Brindo asesoramiento y negocio con entidades bancarias para obtener financiamiento a medida.
+
+
+:::{#cr-phd1}
+![](uta.jpg)
+:::
+
+:::{#cr-phd2}
+![](procredit.jpeg)
+:::
+
+:::{#cr-phd3}
+![](solidario.jpeg)
+:::
+
+:::{#cr-phd4}
+![](sanfra.jpg)
+:::
+
+:::{#cr-phd5}
+![](puce.jpg)
+:::
+
+:::{#cr-phd6}
+![](upv.jpg)
+:::
+
+:::{#cr-phd7}
+![](Aliseda.jpg)
+:::
+
+:::{#cr-phd8}
+![](1.png)
+:::
+
+:::{#cr-phd9}
+![](bde.png)
+:::
+
+:::{#cr-phd10}
+![](casa.png)
+:::
+
+

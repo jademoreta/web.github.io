@@ -1,11 +1,135 @@
 ---
-title: "web.github.io"
+title: "Gestión Integral del Riesgo de Crédito"
+subtitle: Cartera de hipotecas
+title-block-banner: true
+image: banner-img.jpg
 ---
 
-This is a Quarto website.
+::: {style="font-weight: bold;text-align: justify;"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Encontrar un balance entre las limitaciones regulatorias y la necesidad de innovar para ser competitivos se ha convertido en un reto. Mientras que las normativas exigen cautela, las estrategias enfocadas en tecnología, datos y diversificación permiten ampliar la base de clientes y ofrecer productos adaptados al entorno dinámico del mercado, maximizando ingresos sin comprometer la estabilidad financiera.
 
-```{r}
-1 + 1
-```
+
+:::
+
+
+::: {style="text-align: justify;"}
+#### Para quienes estudiamos este problema visualizamos oportunidades para los clientes, quienes pueden disfrutan de productos más accesibles y ajustados a sus necesidades.
+
+#### A continuación tenemos un resumen de los principales aspectos que trataremos en este espacio:
+
+:::
+
+
+::: {.grid}
+
+::: {.column-screen-inset style="text-align: center;"}
+
+:::
+
+::::: {.grid style="padding: 20px; border-radius: 10px; margin-bottom: 20px;"}
+::: {.g-col-12 .g-col-md-6}
+## Gestión de Riesgos Hipotecarios
+
+-   Crisis financieras (incluida la crisis Subprime).
+-   Análisis global del mercado de hipotecas (EE. UU., Latinoamérica, España).
+-   Errores comunes en la gestión del riesgo hipotecario.
+-   Riesgos asociados (operacional, estratégico, reputacional, etc.).
+-   Cultura de riesgo y apetito de riesgo.
+
+## Risk Governance
+
+-   Definición y estructura de gobernanza.
+-   Principios clave (segregación, incentivos, independencia).
+-   Modelos de líneas de defensa (1ª, 2ª, y 3ª línea).
+-   Comunicación efectiva y fortalecimiento del rol del CRO.
+
+## Proceso de Originación y Evaluación
+
+-   Canales de distribución y tecnologías aplicadas.
+-   Evaluación de cultura de riesgo en originación.
+-   Gestión de brokers y valuadores.
+-   Revisión de procesos y aseguramiento de documentación.
+
+## Recobro y Recuperación
+
+-   Estrategias de recobro (uso de scores, árboles de decisión).
+-   Tratamiento de impagos y esquemas de reestructuración.
+-   Proceso de ejecución hipotecaria.
+-   Externalización y herramientas tecnológicas.
+
+## Stress Testing (Aspectos Cualitativos)
+
+-   Gobernanza y roles en el stress testing.
+-   Diseño de escenarios adversos (macro y microeconómicos).
+-   Validación y revisión independiente de los modelos.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Modelización y Métricas
+
+-   Variables y métodos del credit scoring (regresión logística, WOE, árboles de decisión).
+-   Métodos avanzados de segmentación, detección de outliers y muestreo.
+-   Scorecards (discretos y continuos).
+-   Técnicas de inferencia (Reject Inference).
+
+## Securitización
+
+-   Modelización de flujos de caja, prepagos, y tipos de interés.
+-   Análisis de curvas de maduración y enfoques IRB.
+-   Titulizaciones según Basilea (II y III).
+
+## Portfolio Management
+
+-   Monitorización de KRIs.
+-   Análisis de concentraciones y vintage analysis.
+-   Stress testing en carteras.
+
+## Regresión y Modelos Econométricos
+
+-   Regresión logística, Cox, y modelos ARIMA.
+-   Técnicas de calibración avanzada (PD y LGD).
+-   Validación de modelos: heterocedasticidad, multicolinealidad, etc.
+
+## Stress Testing (Aspectos Cuantitativos)
+
+-   Estimación de variables clave (PD, LGD, EAD).
+-   Matrices de transición y tasas de cure.
+-   Modelos de supervivencia y ARIMA para forecasting.
+
+## Capital y RAROC
+
+-   Cálculo de capital regulatorio y económico.
+-   Análisis de correlaciones y modelos multifactoriales.
+-   Gestión de pricing y RAROC en carteras hipotecarias.
+
+## Recobro y Recuperación (Scores)
+
+-   Desarrollo de collection y recovery scores.
+-   Métricas de roll rates, flow rates, y ratios de desempeño.
+:::
+:::::
+
+------------------------------------------------------------------------
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+![](angel.png)
+:::
+
+::: {.g-col-12 .g-col-md-6 style="text-align: justify;"}
+# ¡Hola! soy Angel Moreta
+Soy máster en análisis de datos mejora de procesos y toma de decisiones, mi experiencia profesional y académica me ha permitido compartir este espacio que contiene aspectos relevantes del riesgo de crédito dirigido a la cartera de créditos hipotecarios.
+
+Puedes revisar mi contenido destacado en la sección blog y para estar al día en mis publicaciones puedes seguirme en   [Linkenin](https://www.linkedin.com/in/angel-moreta-38aa898b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FYtw4zcIQCqGwa7LwLlhmQ%3D%3D). 
+También puedes escribirme a mi [mail](mailto:amhipotecas@gmail.com) y suscríbete a mi resvista de riesgo de crédito.
+
+
+<iframe id="beehiiv-form" src="https://embeds.beehiiv.com/9232d2a2-6e85-4beb-b8ed-1de94e9e4f01?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px"></iframe>
+:::
+:::
+
+
+::: {style="font-style: italic;text-align: center;box-shadow: 2px 2px 5px gray"}
+#### Creo que cada individuo tiene la capacidad de influir positivamente en su entorno por esto, este espacio de divulgación nace de mi deseo de compartir conocimientos a quienes, como yo, buscan comprender mejor el riesgo de crédito. 
+:::
